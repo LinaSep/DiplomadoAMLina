@@ -1,0 +1,19 @@
+{
+  "name": "lab28",
+  "version": "1.0.1",
+  "description": "miprimer_nodejs",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sockets",
+    "web",
+    "scokets"
+  ],
+  "author": "Lina Sepulveda",
+  "license": "Apache",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}

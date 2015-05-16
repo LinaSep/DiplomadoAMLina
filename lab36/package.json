@@ -1,0 +1,11 @@
+{
+  "name": "lab36",
+  "version": "1.0.0",
+  "description": "lab36 exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lina Sepulveda",
+  "license": "MIT"
+}
