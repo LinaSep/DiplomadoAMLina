@@ -1,0 +1,14 @@
+{
+  "name": "lab46",
+  "version": "1.0.0",
+  "description": "contacts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "contacts_plugin_cordova"
+  ],
+  "author": "Lina Sepulveda",
+  "license": "MIT"
+}
