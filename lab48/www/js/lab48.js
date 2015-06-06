@@ -23,7 +23,7 @@ $(document).on('pagecreate', '#home', function(){
             sourceType: Camera.PictureSourceType.CAMERA,
             destinationType: Camera.DestinationType.FILE_URI,
             allowEdit: true,//cuando tomo la imagen permite editarla, recortala, filtros etc.
-            encodingType: Camera.EncodingType.PNG,//es la extensiòn en la que va a guardar la imagen en ete caso png
+            encodingType: Camera.EncodingType.PNG,//es la extensiòn en la que va a guardar la imagen en ete caso png, la mejor extension es jpg
             targetWidth: 1024,
             targetHeight: 768
         };
