@@ -1,0 +1,14 @@
+<ion-view view-title="Product List">
+
+          <ion-content>
+          		<h5 class="title" style="font-size:2em; text-align:center;"></h5>
+
+              <ul class="list">
+                  <li class="item" ng-repeat="product in products">
+                      {{ product.name }} | {{ product.type }} | {{ product.price }}
+                  </li>
+              </ul>
+
+          </ion-content>
+
+      </ion-view>

@@ -1,0 +1,14 @@
+<ion-view view-title="User List">
+
+          <ion-content>
+          		<h5 class="title" style="font-size:2em; text-align:center;"></h5>
+
+              <ul class="list">
+                  <li class="item" ng-repeat="user in lists">
+                      {{ user.firstname }} | {{ user.lastname }} | {{ user.email }}
+                  </li>
+              </ul>
+
+          </ion-content>
+
+      </ion-view>
